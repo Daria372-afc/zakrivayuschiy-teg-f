@@ -15,9 +15,3 @@
     font-weight: 400 700;
     font-display: swap;
   }
-
-  @supports (font-variation-settings: normal) {
-    .page {
-      font-family: 'Inter-Variable', sans-serif;
-    }
-  }
